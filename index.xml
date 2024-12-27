@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echoes of Scatter</title>
+    <link>https://scatteror.github.io/</link>
+    <description>Recent content on Echoes of Scatter</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 10:01:47 +0800</lastBuildDate>
+    <atom:link href="https://scatteror.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article01</title>
+      <link>https://scatteror.github.io/post/article01/</link>
+      <pubDate>Fri, 27 Dec 2024 10:01:47 +0800</pubDate>
+      <guid>https://scatteror.github.io/post/article01/</guid>
+      <description>&lt;p&gt;哈哈哈&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
